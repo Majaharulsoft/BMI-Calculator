@@ -1,0 +1,13 @@
+body {
+  background-image: url("p2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+ }
+
+ section{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
